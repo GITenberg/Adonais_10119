@@ -1,0 +1,45 @@
+_repo: Adonais_10119
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Shelley, Percy Bysshe
+    alias: Shelley, P. B. (Percy Bysshe)
+    birthdate: 1792
+    deathdate: 1822
+    gutenberg_agent_id: '1529'
+    url: http://www.gutenberg.org/2009/agents/1529
+    wikipedia: http://en.wikipedia.org/wiki/Percy_Bysshe_Shelley
+  editor:
+    agent_name: Rossetti, William Michael
+    aliases:
+    - Rossetti, W. M. (William Michael)
+    - Rosetti, William Michael
+    birthdate: 1829
+    deathdate: 1919
+    gutenberg_agent_id: '2718'
+    url: http://www.gutenberg.org/2009/agents/2718
+    wikipedia: http://en.wikipedia.org/wiki/William_Michael_Rossetti
+description: Adonais represents the height of artistic achievement for nineteenth-century
+  Romantic poetry. Percy Bysshe Shelley's book-length elegy in the pastoral style
+  mourns the loss of fellow poet John Keats in 495 remarkably accomplished lines.
+  Shelley himself regarded "Adonais" as the best of his work, and the poem is a must-read
+  for fans of the Romantic movement, or for anyone who has struggled with loss.
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10119'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Keats, John, 1795-1821 -- Poetry'
+- !lcsh 'Shelley, Percy Bysshe, 1792-1822 -- Criticism and interpretation'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: 'Memoir of Shelley -- Memoir of Keats -- Adonais: its composition
+  and bibliography -- Adonais: its argument -- Adonais: general exposition -- Bion
+  and Moschus -- Adonais: an elegy on the death of John Keats -- Adonais -- Cancelled
+  passages of Adonais, and of its preface.'
+title: Adonais
+url: http://www.gutenberg.org/ebooks/10119
